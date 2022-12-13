@@ -1,0 +1,165 @@
+2022-12-09 14:36:56,775 DEBUG    root            Loaded Command Group: ['gcloud', 'components']
+2022-12-09 14:36:56,777 DEBUG    root            Loaded Command Group: ['gcloud', 'components', 'update']
+2022-12-09 14:36:56,780 DEBUG    root            Running [gcloud.components.update] with arguments: [--quiet: "True", COMPONENT-IDS:8: "['gcloud', 'core', 'bq', 'gsutil', 'compute', 'preview', 'alpha', 'beta']"]
+2022-12-09 14:36:56,781 INFO     ___FILE_ONLY___ Beginning update. This process may take several minutes.
+
+2022-12-09 14:36:56,785 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2022-12-09 14:36:56,808 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components-2.json HTTP/1.1" 200 203441
+2022-12-09 14:36:56,824 WARNING  root            Component [preview] no longer exists.
+2022-12-09 14:36:56,825 WARNING  root            Component [compute] no longer exists.
+2022-12-09 14:36:56,826 INFO     ___FILE_ONLY___ 
+
+2022-12-09 14:36:56,826 INFO     ___FILE_ONLY___ 
+Your current Google Cloud CLI version is: 411.0.0
+
+2022-12-09 14:36:56,826 INFO     ___FILE_ONLY___ Installing components from version: 411.0.0
+
+2022-12-09 14:36:56,826 INFO     ___FILE_ONLY___ 
+
+2022-12-09 14:36:56,829 INFO     ___FILE_ONLY___ ┌──────────────────────────────────────────────┐
+2022-12-09 14:36:56,829 INFO     ___FILE_ONLY___ 
+
+2022-12-09 14:36:56,829 INFO     ___FILE_ONLY___ │     These components will be installed.      │
+2022-12-09 14:36:56,829 INFO     ___FILE_ONLY___ 
+
+2022-12-09 14:36:56,829 INFO     ___FILE_ONLY___ ├───────────────────────┬────────────┬─────────┤
+2022-12-09 14:36:56,829 INFO     ___FILE_ONLY___ 
+
+2022-12-09 14:36:56,829 INFO     ___FILE_ONLY___ │          Name         │  Version   │   Size  │
+2022-12-09 14:36:56,829 INFO     ___FILE_ONLY___ 
+
+2022-12-09 14:36:56,829 INFO     ___FILE_ONLY___ ├───────────────────────┼────────────┼─────────┤
+2022-12-09 14:36:56,829 INFO     ___FILE_ONLY___ 
+
+2022-12-09 14:36:56,829 INFO     ___FILE_ONLY___ │ 
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___ gcloud Alpha Commands
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___  
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___ │ 
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___ 2022.12.05
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___  
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___ │ 
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___ < 1 MiB
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___  
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___ │
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___ 
+
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___ │ 
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___ gcloud Beta Commands 
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___  
+2022-12-09 14:36:56,830 INFO     ___FILE_ONLY___ │ 
+2022-12-09 14:36:56,831 INFO     ___FILE_ONLY___ 2022.12.05
+2022-12-09 14:36:56,831 INFO     ___FILE_ONLY___  
+2022-12-09 14:36:56,831 INFO     ___FILE_ONLY___ │ 
+2022-12-09 14:36:56,831 INFO     ___FILE_ONLY___ < 1 MiB
+2022-12-09 14:36:56,831 INFO     ___FILE_ONLY___  
+2022-12-09 14:36:56,831 INFO     ___FILE_ONLY___ │
+2022-12-09 14:36:56,831 INFO     ___FILE_ONLY___ 
+
+2022-12-09 14:36:56,831 INFO     ___FILE_ONLY___ └───────────────────────┴────────────┴─────────┘
+2022-12-09 14:36:56,831 INFO     ___FILE_ONLY___ 
+
+2022-12-09 14:36:56,831 INFO     ___FILE_ONLY___ 
+
+2022-12-09 14:36:56,833 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2022-12-09 14:36:56,852 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/RELEASE_NOTES HTTP/1.1" 200 910010
+2022-12-09 14:36:56,880 INFO     ___FILE_ONLY___ For the latest full release notes, please visit:
+  https://cloud.google.com/sdk/release_notes
+
+
+2022-12-09 14:36:56,886 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2022-12-09 14:36:56,886 INFO     ___FILE_ONLY___ ╠═ Creating update staging area                             ═╣
+
+2022-12-09 14:36:56,886 INFO     ___FILE_ONLY___ ╚
+2022-12-09 14:36:56,886 INFO     ___FILE_ONLY___ ══════
+2022-12-09 14:36:57,445 INFO     ___FILE_ONLY___ ══════
+2022-12-09 14:36:57,445 INFO     ___FILE_ONLY___ ══════
+2022-12-09 14:36:57,823 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:57,942 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:58,068 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:58,358 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:58,433 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:58,520 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:58,604 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:58,671 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:58,739 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:58,841 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:58,898 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:58,985 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:59,082 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:59,172 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:59,255 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:59,354 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:59,456 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:59,699 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:36:59,774 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,045 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,135 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,204 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,245 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,277 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,311 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,351 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,479 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,655 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,745 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,797 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,852 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,922 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:00,986 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:01,044 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:01,113 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:01,172 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:01,238 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:01,295 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:01,352 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:01,406 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:01,465 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:01,524 INFO     ___FILE_ONLY___ ═
+2022-12-09 14:37:01,524 INFO     ___FILE_ONLY___ ╝
+
+2022-12-09 14:37:03,644 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2022-12-09 14:37:03,644 INFO     ___FILE_ONLY___ ╠═ Installing: gcloud Alpha Commands                        ═╣
+
+2022-12-09 14:37:03,644 INFO     ___FILE_ONLY___ ╚
+2022-12-09 14:37:03,648 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2022-12-09 14:37:03,668 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components/google-cloud-sdk-alpha-20221205224721.tar.gz HTTP/1.1" 200 800
+2022-12-09 14:37:03,669 INFO     ___FILE_ONLY___ ══════════════════════════════
+2022-12-09 14:37:03,671 INFO     ___FILE_ONLY___ ══════════════════════════════
+2022-12-09 14:37:03,671 INFO     ___FILE_ONLY___ ╝
+
+2022-12-09 14:37:03,683 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2022-12-09 14:37:03,684 INFO     ___FILE_ONLY___ ╠═ Installing: gcloud Beta Commands                         ═╣
+
+2022-12-09 14:37:03,684 INFO     ___FILE_ONLY___ ╚
+2022-12-09 14:37:03,688 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2022-12-09 14:37:03,707 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components/google-cloud-sdk-beta-20221205224721.tar.gz HTTP/1.1" 200 797
+2022-12-09 14:37:03,708 INFO     ___FILE_ONLY___ ══════════════════════════════
+2022-12-09 14:37:03,709 INFO     ___FILE_ONLY___ ══════════════════════════════
+2022-12-09 14:37:03,709 INFO     ___FILE_ONLY___ ╝
+
+2022-12-09 14:37:03,720 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2022-12-09 14:37:03,721 INFO     ___FILE_ONLY___ ╠═ Creating backup and activating new installation          ═╣
+
+2022-12-09 14:37:03,721 INFO     ___FILE_ONLY___ ╚
+2022-12-09 14:37:03,721 DEBUG    root            Attempting to move directory [/tools/google-cloud-sdk] to [/tools/google-cloud-sdk.staging/.install/.backup]
+2022-12-09 14:37:03,721 INFO     ___FILE_ONLY___ ══════════════════════════════
+2022-12-09 14:37:03,721 DEBUG    root            Attempting to move directory [/tools/google-cloud-sdk.staging] to [/tools/google-cloud-sdk]
+2022-12-09 14:37:03,721 INFO     ___FILE_ONLY___ ══════════════════════════════
+2022-12-09 14:37:03,721 INFO     ___FILE_ONLY___ ╝
+
+2022-12-09 14:37:03,726 DEBUG    root            Updating notification cache...
+2022-12-09 14:37:03,730 INFO     ___FILE_ONLY___ 
+
+2022-12-09 14:37:03,735 INFO     ___FILE_ONLY___ Performing post processing steps...
+2022-12-09 14:37:03,736 DEBUG    root            Executing command: ['python3', '-S', '/tools/google-cloud-sdk/lib/gcloud.py', 'components', 'post-process']
+2022-12-09 14:37:30,484 DEBUG    ___FILE_ONLY___ 
+2022-12-09 14:37:30,485 DEBUG    ___FILE_ONLY___ 
+2022-12-09 14:37:30,524 INFO     ___FILE_ONLY___ 
+Update done!
+
+
+2022-12-09 14:37:30,529 INFO     root            Display format: "none"

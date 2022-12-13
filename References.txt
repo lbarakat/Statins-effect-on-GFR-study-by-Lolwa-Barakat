@@ -1,0 +1,12 @@
+References:
+
+1.	Agarwal R. Effects of Statins on Renal Function. Mayo Clinic Proceedings. 2007;82(11):1381-1390. doi:10.4065/82.11.1381
+2.	Delanaye P, Schaeffner E, Ebert N, et al. Normal reference values for glomerular filtration rate: what do we really know? Nephrology dialysis transplantation. 2012;27(7):2664-2672. doi:10.1093/ndt/gfs265
+3.	Vázquez‐Pérez S, Aragoncillo P, de las Heras N, et al. Atorvastatin prevents glomerulosclerosis and renal endothelial dysfunction in hypercholesterolaemic rabbits. Nephrology dialysis transplantation. 2001;16(suppl_1):40-44. doi:10.1093/ndt/16.suppl_1.40
+4.	Epstein M, Campese VM. Pleiotropic effects of 3-hydroxy-3-methylglutaryl coenzyme a reductase inhibitors on renal function. American journal of kidney diseases : AJKD : the official journal of the National Kidney Foundation. 2005;45(1):2-14. doi:10.1053/j.ajkd.2004.08.040
+5.	American College of C. Sodium Bicarbonate Versus Saline for the Prevention of Contrast-Induced Nephropathy in Patients With Renal Dysfunction Undergoing Coronary Angiography or Intervention. Journal of the American College of Cardiology. 2008;52(8):599-604. doi:10.1016/j.jacc.2008.05.026
+6.	Tsiara S, Elisaf M, Mikhailidis DP. Early vascular benefits of statin therapy. Current medical research and opinion. 2003;19(6):540-556. doi:10.1185/030079903125002225
+7.	Pappy R, Stavrakis S, Hennebry TA, Abu-Fadel MS. Effect of statin therapy on contrast-induced nephropathy after coronary angiography: A meta-analysis. International journal of cardiology. 2011;151(3):348-353. doi:10.1016/j.ijcard.2011.05.045
+8.	Khanal S, Attallah N, Smith DE, et al. Statin therapy reduces contrast-induced nephropathy: An analysis of contemporary percutaneous interventions. The American journal of medicine. 2005;118(8):843-849. doi:10.1016/j.amjmed.2005.03.031
+9.	Welten GMJM, Chonchol M, Schouten O, et al. Statin use is associated with early recovery of kidney injury after vascular surgery and improved long-term outcome. Nephrology dialysis transplantation. 2008;23(12):3867-3873. doi:10.1093/ndt/gfn381
+
